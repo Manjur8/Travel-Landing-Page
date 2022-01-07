@@ -11,7 +11,7 @@ For Animation 2 JavaScript Pack is used in this project.
 1. ScrollReveal
 2. SwiperJS
 
-In the CSS, the following function is used:
+In the CSS, the following features is used:
 1. grid
 2. Reuseable Component
 
