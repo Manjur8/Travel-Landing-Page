@@ -2,6 +2,8 @@
 
 It is a sample Frontend Project for a Travel Company.
 
+https://i.ibb.co/bRrsXd6/Screenshot-2024-06-06-201255.png
+
 Used Technology:
 1. HTML
 2. CSS
